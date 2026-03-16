@@ -93,7 +93,7 @@ Olá! Sou **Mateus da Silva Junior**, 26 anos, estudante de **Análise e Desenvo
 > * **Resultado:** Visibilidade operacional que antes dependia de relatórios manuais em planilhas.
 >
 > <p>
->   <a href="https://github.com/SEU-USUARIO/dashboard-logistica"><strong>Acessar Repositório &rarr;</strong></a>
+>   <a href="https://github.com/MateusSjunior/dashboard-producao/tree/main"><strong>Acessar Repositório &rarr;</strong></a>
 > </p>
 </details>
 
