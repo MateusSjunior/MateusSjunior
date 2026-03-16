@@ -85,24 +85,11 @@ Olá! Sou **Mateus da Silva Junior**, 26 anos, estudante de **Análise e Desenvo
 ## 📊 Outros Projetos Notáveis
 
 <details>
-<summary><strong>Case 1: ETL e Análise de RH (Excel + Power BI)</strong></summary>
+<summary><strong>Case 1: Dashboard de Produção (Power BI)</strong></summary>
 <br>
 
-> * **O Desafio:** Tratar dados de recursos humanos com inconsistências para gerar indicadores confiáveis de gestão de pessoas.
-> * **A Solução:** Pipeline de ETL completo — limpeza, padronização e transformação dos dados — seguido de dashboard com indicadores de headcount e performance.
-> * **Resultado:** Dados antes inutilizáveis se tornaram a base para decisões de RH com rastreabilidade e histórico.
->
-> <p>
->   <a href="https://github.com/SEU-USUARIO/analise-rh"><strong>Acessar Repositório &rarr;</strong></a>
-> </p>
-</details>
-
-<details>
-<summary><strong>Case 2: Dashboard de Logística e Produção (Power BI)</strong></summary>
-<br>
-
-> * **O Desafio:** Monitorar indicadores operacionais de logística e produção de forma visual e acessível para gestores não técnicos.
-> * **A Solução:** Painel com KPIs de eficiência, lead time e volume de produção, desenvolvido após tratamento dos dados brutos.
+> * **O Desafio:** Monitorar indicadores operacionais de produção de forma visual e acessível para gestores não técnicos.
+> * **A Solução:** Painel com KPIs de eficiência, volume de produção, desenvolvido após tratamento dos dados brutos.
 > * **Resultado:** Visibilidade operacional que antes dependia de relatórios manuais em planilhas.
 >
 > <p>
@@ -111,15 +98,15 @@ Olá! Sou **Mateus da Silva Junior**, 26 anos, estudante de **Análise e Desenvo
 </details>
 
 <details>
-<summary><strong>Case 3: Análise de Turnover de Corretores (Power BI + DAX)</strong></summary>
+<summary><strong>Case 2: Dashboard de Vendas Global (Power BI)</strong></summary>
 <br>
 
-> * **O Desafio:** Investigar o turnover de corretores em uma construtora com dados fragmentados e inconsistentes extraídos do CRM.
-> * **A Solução:** Tratamento dos dados confusos na origem e construção de medidas DAX para calcular taxa de saída, tempo médio de permanência e perfil dos corretores com maior retenção.
-> * **Resultado:** Primeiro diagnóstico estruturado de retenção de equipe comercial — com dados do mundo real.
+> * **O Desafio:** Analisar o faturamento de uma empresa com atuação global entre 2017 e 2019, identificando tendências temporais, marcas líderes e distribuição geográfica de receita.
+> * **A Solução:** Dashboard com gráfico temporal mês a mês, ranking de marcas e mapa de bolhas por continente via Azure Maps.
+> * **Resultado:** Identificação de sazonalidade de fim de ano, suavização do padrão em 2018 e crescimento acelerado em abril de 2019 — quase igualando o pico histórico de novembro de 2017.
 >
 > <p>
->   <a href="https://github.com/SEU-USUARIO/turnover-corretores"><strong>Acessar Repositório &rarr;</strong></a>
+>   <a href="https://github.com/MateusSjunior/dashboard-vendas"><strong>Acessar Repositório &rarr;</strong></a>
 > </p>
 </details>
 
